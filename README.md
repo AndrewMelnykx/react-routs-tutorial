@@ -1,5 +1,5 @@
 # React + TypeScript + Vite + React Routs
-                                                       React routs tutorial
+                                                       React routs tutorial [LINK](https://andrewmelnykx.github.io/react-routs-tutorial/)
 
 1)Adding routs
 
